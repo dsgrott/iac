@@ -1,0 +1,3 @@
+do_token="dop_v1_d6ca95d698727c5e75c7ea0672f05755db5d8be64ed85c5377bd425c0b42071b"
+k8s_name="k8s-iniciativa-dsgrott"
+region="nyc1"
